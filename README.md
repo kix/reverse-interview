@@ -168,3 +168,4 @@
 # Что ещё посмотреть
 
 - Больше идей для вопросов есть в [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+- Практика [cross-interview](https://habr.com/ru/post/431514/) для компаний и кандидатов
